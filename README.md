@@ -2,6 +2,17 @@
 A website development project using HTML, CSS and Javascript to allow students to study content quicker.
 This is achieved through pointing out the prerequisites that a student needs to know before learning a topic.
 
+<img width="782" alt="Pain points of students" src="https://github.com/user-attachments/assets/11d8ac0e-06c8-464e-bf39-d683504a5074">
+
+<img width="869" alt="User Exp With app" src="https://github.com/user-attachments/assets/239ef8a1-5d9b-47e1-8c2a-4e842ef4bab4">
+
+<img width="701" alt="Homepage" src="https://github.com/user-attachments/assets/00c2c35d-a66e-4d47-99f8-372fbd7464b1">
+
+<img width="720" alt="Topic Page" src="https://github.com/user-attachments/assets/37d15595-51b4-4dec-beb9-2b4969f9764c">
+
+<img width="263" alt="Topic Graph" src="https://github.com/user-attachments/assets/dc515848-d11c-41d1-b514-538c6f0c6253">
+
+
 ## Tech Stack Used
 
 ### Languages
